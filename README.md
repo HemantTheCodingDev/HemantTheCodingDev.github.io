@@ -2,18 +2,13 @@
 
 
 
-I'm Jigish Solanki<br />
+I'm Hemant Kumar Jha<br />
 
-⌨ I’m Software Engineer with 7.5 years of experience in <b>Core PHP</b>, <b>WordPress</b>, <b>Shopify</b>, <b>Laravel</b> \& <b>ReactJs</b>. <br />
+⌨ I’m Software Engineer with 8.5 years of experience in <b>Core PHP</b>, <b>WordPress</b>, <b>MySQL</b>, <b>REST APIs</b>, <b>WooCommerce</b>, \& <b>ReactJs</b>. <br />
 
 🌱 I’m growing as a Fullstack Developer <br />
 
-
-
 <!--
-
-\*\*JigishS/jigishs\*\* is a ✨ \_special\_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
@@ -37,6 +32,7 @@ Here are some ideas to get you started:
 \- ⚡ Fun fact: ...
 
 -->
+
 
 
 
